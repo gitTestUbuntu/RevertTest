@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Master3;
         Master4;
         Master5;
+        TestE1;
+
     }
 }
