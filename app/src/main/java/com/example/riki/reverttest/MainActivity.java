@@ -12,8 +12,5 @@ public class MainActivity extends AppCompatActivity {
         Master1;
         Master5;
         Master6;
-        Master7;
-        Master8;
-        Master9;
     }
 }
