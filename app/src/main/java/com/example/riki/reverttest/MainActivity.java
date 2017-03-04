@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Master1;
         Maaster2;
+        Master3;
     }
 }
