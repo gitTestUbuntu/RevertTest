@@ -9,10 +9,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Master1;
-        Maaster2;
-        Master3;
-        Master4;
-        Master5;
     }
 }
